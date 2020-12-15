@@ -273,7 +273,7 @@
     "json5": "2.1.0",
     "klaw-sync": "6.0.0",
     "metro-react-native-babel-preset": "0.56.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "msgpack": "git://github.com/keybase/nullModule",
     "net": "git://github.com/keybase/nullModule",
     "null-loader": "0.1.1",
